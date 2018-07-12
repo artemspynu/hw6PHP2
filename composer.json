@@ -1,0 +1,14 @@
+{
+    "name": "user/hw6php2",
+    "type": "project",
+    "require": {
+        "twig/twig": "^2.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Artem",
+            "email": "artem-lider@mail.ru"
+        }
+    ]
+}
